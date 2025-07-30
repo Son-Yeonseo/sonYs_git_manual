@@ -1,1 +1,2 @@
 sonYs_git_manual2
+git clone test1 in clone2
